@@ -1,4 +1,4 @@
-module standardlayer
+module github.com/jdhxyy/standardlayer
 
 go 1.17
 
